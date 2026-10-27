@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><color name="primary">#FF6200EE</color><color name="on_primary">#FFFFFFFF</color><color name="ic_launcher_background">#3DDC84</color><string name="app_name">الكاميرا</string><string name="hello_world">Hello, World!</string><style name="Theme.App" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/primary</item>
+    </style></resources>

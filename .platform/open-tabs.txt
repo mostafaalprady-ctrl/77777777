@@ -1,0 +1,15 @@
+#v2
+12
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/java/com/example/MainActivity.java	3869	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/AndroidManifest.xml	1008	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/java/com/example/TelegramService.java	1024	20	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/build.gradle	869	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/build/intermediates/android/debug/instrumented-manifest/AndroidManifest.xml	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/java/com/AdminReceiver.java	183	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/res/xml/device_admin.xml	197	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/project-4/app/src/main/res/values/strings.xml	86	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/مصطفى/app/proguard-rules.pro	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/مصطفى/app/build.gradle	961	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/مصطفى/app/src/main/java/com/example/TelegramService.java	9631	180	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/مصطفى/app/src/main/AndroidManifest.xml	649	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/مصطفى/app/src/main/java/com/example/app/BootReceiver.java	0	0	text
